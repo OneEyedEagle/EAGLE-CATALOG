@@ -2601,7 +2601,7 @@
 			transition: transform 0.5s ease, opacity 0.5s ease;
 			position: relative;
 			width: calc(33.33333% - 2.5em);
-			margin: -2.5em 0 0 2.5em;
+			margin: -1.5em 0 0 2.5em;
 		}
 
 			.tiles article > .image {
