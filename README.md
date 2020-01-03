@@ -1,8 +1,8 @@
-# 老鹰的作品索引页
+# 老鹰的作品索引页 
 
 ---
 
-## ![](images/symbol_eagle.png)前言
+## 前言
 
 ### 关于老鹰
 
@@ -29,7 +29,7 @@
 
 ---
 
-## ![](images/symbol_eagle.png)2014.8
+## 2014.8
 
 ### 追逐战练习
 
@@ -79,7 +79,7 @@
 
 ---
 
-## ![](images/symbol_eagle.png)2014.9
+## 2014.9
 
 ### 夜之章
 
@@ -393,7 +393,7 @@ BG | 狂气
 
 ## 2016.12
 
-### Rescue Line/ProudToBe
+### Rescue Line / ProudToBe
 
 ![](images/sig_game_rl_ptb.png)
 
@@ -419,7 +419,7 @@ LGBT | 公益科普
 
 ## 2017.4
 
-### 抑郁/Depression
+### 抑郁 / Depression
 
 ![](images/sig_game_depression.png)
 
@@ -501,7 +501,7 @@ BL | 正剧
 
 ## 2019.3
 
-### Fidelis/Alchemy and Records
+### Fidelis / Alchemy and Records
 
 ![](images/pic_game_far.png)
 
@@ -521,12 +521,12 @@ BL | 正剧
 
 - 制作感想
 
-  没啥说的，只是一个温馨的小故事，祝大家能有好心情吧~
+  没啥说的，只是一个温馨的小故事，祝大家能有好心情吧~  
   更详细的可以在发布页里面看到（
 
 - 发布页：<https://rpg.blue/thread-412301-1-1.html>
 
---- 
+---
 
 ### Fidelis / Shadow Embrace
 
