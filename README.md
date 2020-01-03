@@ -12,7 +12,7 @@
 
 - LOFTER - [老鹰的巢](https://oneeyedeagle.lofter.com/)
 
-- 新浪微博 - [@独眼老鹰](https://weibo.com/oneeyedeagle) 
+- 新浪微博 - [@独眼老鹰](https://weibo.com/oneeyedeagle)
 
 ### 插件分享
 
@@ -35,11 +35,11 @@
 
 - 游戏类型Tag
 
-  纯追逐战 | 手残党 | 试水作（初步尝试追逐战）
+纯追逐战 | 手残党 | 试水作（初步尝试追逐战）
 
 - 剧情Tag
 
-  无剧情 |
+无剧情 |
 
 - 简介
 
@@ -57,11 +57,11 @@
 
 - 游戏类型Tag
 
-  地图战斗 | ARPG | 试水作（初步尝试地图战斗）
+地图战斗 | ARPG | 试水作（初步尝试地图战斗）
 
 - 剧情Tag
 
-  搞怪 | 轻松
+搞怪 | 轻松
 
 - 简介
 
@@ -83,11 +83,11 @@
 
 - 游戏类型Tag
 
-  探索解谜 | 无恐怖 
+探索解谜 | 无恐怖
 
 - 剧情Tag
 
-  BL向 | 温馨
+BL向 | 温馨
 
 - 简介
 
@@ -107,11 +107,11 @@
 
 - 游戏类型Tag
 
-  R剧 | 极短篇 | 试水作（初步尝试二周目系统）
+R剧 | 极短篇 | 试水作（初步尝试二周目系统）
 
 - 剧情Tag
 
-  正剧 | 独立世界
+正剧 | 独立世界
 
 - 简介
 
@@ -133,11 +133,11 @@
 
 - 游戏类型Tag
 
-  探索解谜 | 微恐怖 
+探索解谜 | 微恐怖
 
 - 剧情Tag
 
-  GL | 治愈
+GL | 治愈
 
 - 简介
 
@@ -159,11 +159,11 @@
 
 - 游戏类型Tag
 
-  解谜 | 伪恐怖 | 双章节
+解谜 | 伪恐怖 | 双章节
 
 - 剧情Tag
 
-  BG | 治愈
+BG | 治愈
 
 - 简介
 
@@ -185,11 +185,11 @@
 
 - 游戏类型Tag
 
-  R剧 | 极短篇 | 探索向 | 试水作（初步转换风格）
+R剧 | 极短篇 | 探索向 | 试水作（初步转换风格）
 
 - 剧情Tag
 
-  萌即正义 | 可爱
+萌即正义 | 可爱
 
 - 简介
 
@@ -211,11 +211,11 @@
 
 - 游戏类型Tag
 
-  R剧 | 极短篇 | 探索向 | 微恐怖
+R剧 | 极短篇 | 探索向 | 微恐怖
 
 - 剧情Tag
 
-  负能量 | BL
+负能量 | BL
 
 - 简介
 
@@ -235,11 +235,11 @@
 
 - 游戏类型Tag
 
-  R剧 | 极短篇 | 纯剧情
+R剧 | 极短篇 | 纯剧情
 
 - 剧情Tag
 
-  喜庆 | 番外 | GL
+喜庆 | 番外 | GL
 
 - 简介
 
@@ -261,11 +261,11 @@
 
 - 游戏类型Tag
 
-  R剧 | 短篇 | 探索向
+R剧 | 短篇 | 探索向
 
 - 剧情Tag
 
-  BL | 现实虐心
+BL | 现实虐心
 
 - 简介
 
@@ -287,7 +287,7 @@
 
 - 游戏类型Tag
 
-  R剧 | 极短篇 | 略手残向
+R剧 | 极短篇 | 略手残向
 
 - 剧情Tag
 
@@ -313,11 +313,11 @@
 
 - 游戏类型Tag
 
-  R剧 | 极短篇 | 纯文字 | 探索向
+R剧 | 极短篇 | 纯文字 | 探索向
 
 - 剧情Tag
 
-  犯罪 | 逆破案
+犯罪 | 逆破案
 
 - 简介
 
@@ -339,11 +339,11 @@
 
 - 游戏类型Tag
 
-  解谜 | 文艺向 | 探索向
+解谜 | 文艺向 | 探索向
 
 - 剧情Tag
 
-  亲情 | GL | 治愈
+亲情 | GL | 治愈
 
 - 简介
 
@@ -365,11 +365,11 @@
 
 - 游戏类型Tag
 
-  日轻风 | 文字AVG
+日轻风 | 文字AVG
 
 - 剧情Tag
 
-  BG | 狂气
+BG | 狂气
 
 - 简介
 
@@ -391,11 +391,11 @@
 
 - 游戏类型Tag
 
-  Lifeline式 | 纯文字 
+Lifeline式 | 纯文字
 
 - 剧情Tag
 
-  LGBT | 公益科普
+LGBT | 公益科普
 
 - 简介
 
@@ -417,11 +417,11 @@
 
 - 游戏类型Tag
 
-  极短 | 地图ARPG
+极短篇 | 地图ARPG
 
 - 剧情Tag
 
-  抑郁症 | 公益
+抑郁症 | 公益
 
 - 简介
 
@@ -443,15 +443,15 @@
 
 - 游戏类型Tag
 
-  日式传统RPG | 短篇
+日式传统RPG | 短篇
 
 - 剧情Tag
 
-  BL | 正剧 | 致敬Glimmer系列
+BL | 正剧 | 致敬Glimmer系列
 
 - 简介
 
-  Fidelis —— 物是人非，唯留心底信念，如漫天辰星，从未消逝，指明前方 / Things remain while people alter, only faith in heart as stars never vanish, und brighten the way ahead. 
+  Fidelis —— 物是人非，唯留心底信念，如漫天辰星，从未消逝，指明前方 / Things remain while people alter, only faith in heart as stars never vanish, und brighten the way ahead.
 
   Tilting the Balance —— 我愿立于倾斜天平的高侧，增添一毫的重量 / Wish I be on the higher side of the world balance, even weighing little.
 
@@ -471,15 +471,15 @@
 
 - 游戏类型Tag
 
-  日式传统RPG | 极短篇 | 一场战斗
+日式传统RPG | 极短篇 | 一场战斗
 
 - 剧情Tag
 
-  BL | 正剧
+BL | 正剧
 
 - 简介
 
-  Fidelis  / 信念之地 —— 百年守护，与汝最后的约定 / Protecting for the last promise with thee. 
+  Fidelis  / 信念之地 —— 百年守护，与汝最后的约定 / Protecting for the last promise with thee.
 
   Mega Origin / 魔法本源 —— 摈弃一切，也愿守护这不完美的世界 / Shall keep the imperfect world till it costs all of mine.
 
@@ -497,11 +497,11 @@
 
 - 剧情Tag
 
-  BL | 正剧 | 强强 | R18 | 伪自攻自受
+BL | 正剧 | 强强 | R18 | 伪自攻自受
 
 - 简介
 
-  Fidelis  / 信念之地 —— 彼时信念，从未离去。当你承诺，予我回应。 / The faith has never gone, and I shall recall when you promise. 
+  Fidelis  / 信念之地 —— 彼时信念，从未离去。当你承诺，予我回应。 / The faith has never gone, and I shall recall when you promise.
 
   Shadow Embrace / 暗影之拥 —— 虽生于黑暗，但亦能温暖陪同；虽伴与暗影，却仍会守望光明。 / Born in the dark, I share the warmth. Accompanied by the shadow, I fight for the light.
 
@@ -519,11 +519,11 @@
 
 - 游戏类型Tag
 
-  AVG | 
+AVG |
 
 - 剧情Tag
 
-  无倾向 | 反讽
+无倾向 | 反讽
 
 - 简介
 
@@ -542,4 +542,3 @@
 ## 待续
 
 *最后，感谢你的一路陪伴，无论一年还是一天，鞠躬~*
-
