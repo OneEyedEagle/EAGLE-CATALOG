@@ -27,6 +27,68 @@
 - 合集分享 [百度云载点](https://pan.baidu.com/s/1-VAsCZNCGHTS_udyeqyERg )  _yqk4_ （含全部已发布内容，如遇单独分享失效，可至此处查找）
 - 本文中的发布页链接一般为LOFTER博客页地址，或[Project1](https://rpg.blue/)论坛内地址
 
+### 快速跳转
+
+[2014.8](#2014.8)
+  [追逐战练习](#追逐战练习)
+  [勇者之路](#勇者之路)
+
+[2014.9](#2014.9)
+  [夜之章](#夜之章)
+
+[2014.12](#2014.12)
+  [兵魂](#兵魂)
+
+[2015.2](#2015.2)
+  [日落归](#日落归)
+
+[2015.9](#2015.9)
+  [谎言之屋](#谎言之屋)
+
+[2015.11](#2015.11)
+  [肯定还有奇怪的地方](#肯定还有奇怪的地方)
+
+[2016.1](#2016.1)
+  [我之死](#我之死)
+
+[2016.2](#2016.2)
+  [祈年舞](#祈年舞)
+
+[2016.3](#2016.3)
+  [朋友](#朋友)
+  [Fidelis / Transparent Cactus](#Fidelis / Transparent Cactus)
+
+[2016.5](#2016.5)
+  [Fidelis / The Overdue Brave](#Fidelis / The Overdue Brave)
+
+[2016.7](#2016.7)
+  [完美犯罪](#完美犯罪)
+
+[2016.8](#2016.8)
+  [映月奏](#映月奏)
+
+[2016.11](#2016.11)
+  [实验观察记录](#实验观察记录)
+
+[2016.12](#2016.12)
+  [Rescue Line / ProudToBe](#Rescue Line / ProudToBe)
+
+[2017.4](#2017.4)
+  [抑郁 / Depression](#抑郁 / Depression)
+
+[2017.8](#2017.8)
+  [Fidelis / Tilting the Balance](#Fidelis / Tilting the Balance)
+
+[2018.7](#2018.7)
+  [Fidelis / Mega Origin](#Fidelis / Mega Origin)
+
+[2019.3](#2019.3)
+  [Fidelis / Alchemy and Records](#Fidelis / Alchemy and Records)
+  [Fidelis / Shadow Embrace](#Fidelis / Shadow Embrace)
+
+[2019.4](#2019.4)
+  [思维冲击实验：996](#思维冲击实验：996)
+
 ---
 
 ## 2014.8
@@ -285,11 +347,26 @@ BL | 现实虐心
 
 - 发布页：<http://friends-bl.lofter.com/post/1d7f7cf5_a1da38b>
 
+### Fidelis / Transparent Cactus
+
+![](images/sig_novel_ftc.png)
+
+- 剧情Tag
+
+BL | 正剧 | 强强
+
+- 撰写感想
+
+  是古早的一篇小说，原本并未收录于当前页，但是想想还是加进来了（补录于2020.1.3）  
+  那时的青涩文笔年代，是再也回不去的年代，因为现在的我，可能只想ghs了（bu
+
+- 发布页：<http://fidelis-rpg.lofter.com/post/1deb4398_a6c6d6a>
+
 ---
 
 ## 2016.5
 
-### Fidelis/The Overdue Brave
+### Fidelis / The Overdue Brave
 
 ![](images/sig_game_fob.png)
 
@@ -503,7 +580,7 @@ BL | 正剧
 
 ### Fidelis / Alchemy and Records
 
-![](images/pic_game_far.png)
+![](images/pic_game_far.jpg)
 
 - 游戏类型Tag
 
@@ -530,7 +607,7 @@ BL | 正剧
 
 ### Fidelis / Shadow Embrace
 
-![](images/pic_novel_fse.png)
+![](images/pic_novel_fse.jpg)
 
 - 剧情Tag
 
