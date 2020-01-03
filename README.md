@@ -2,9 +2,11 @@
 
 ---
 
-## 前言
+## ![](images/symbol_eagle.png)前言
 
 ### 关于老鹰
+
+![](images/logo_eagle.png)
 
 喜欢自己捣鼓的RPG Maker爱好者，虽然做的东西都很一般，但是真的很快乐～
 
@@ -27,7 +29,7 @@
 
 ---
 
-## 2014.8
+## ![](images/symbol_eagle.png)2014.8
 
 ### 追逐战练习
 
@@ -55,6 +57,8 @@
 
 ### 勇者之路
 
+![](images/sig_game_brave_way.png)
+
 - 游戏类型Tag
 
 地图战斗 | ARPG | 试水作（初步尝试地图战斗）
@@ -75,7 +79,7 @@
 
 ---
 
-## 2014.9
+## ![](images/symbol_eagle.png)2014.9
 
 ### 夜之章
 
@@ -104,6 +108,8 @@ BL向 | 温馨
 ## 2014.12
 
 ### 兵魂
+
+![](images/sig_game_the_soldier.png)
 
 - 游戏类型Tag
 
@@ -233,6 +239,8 @@ R剧 | 极短篇 | 探索向 | 微恐怖
 
 ### 祈年舞
 
+![](images/sig_game_the_year_dance.png)
+
 - 游戏类型Tag
 
 R剧 | 极短篇 | 纯剧情
@@ -291,7 +299,7 @@ R剧 | 极短篇 | 略手残向
 
 - 剧情Tag
 
-  王道（勇者魔王法师神马的）
+王道（勇者魔王法师神马的）|
 
 - 简介
 
@@ -493,7 +501,36 @@ BL | 正剧
 
 ## 2019.3
 
+### Fidelis/Alchemy and Records
+
+![](images/pic_game_far.png)
+
+- 游戏类型Tag
+
+极短篇 | 纯文字
+
+- 剧情Tag
+
+BL | 正剧
+
+- 简介
+
+  Fidelis  / 信念之地 —— 信念，将指引人创造出不可思议的奇迹。 / The faith you consist shall lead to a charming miracle.
+
+  Alchemy and Records / 炼金与记录 —— 我的记录，便是要让更多人不再因自身的局限而迷茫无措。 / What my records do is to show those confused by self's limitation a brighter future, and help to seize it.
+
+- 制作感想
+
+  没啥说的，只是一个温馨的小故事，祝大家能有好心情吧~
+  更详细的可以在发布页里面看到（
+
+- 发布页：<https://rpg.blue/thread-412301-1-1.html>
+
+--- 
+
 ### Fidelis / Shadow Embrace
+
+![](images/pic_novel_fse.png)
 
 - 剧情Tag
 
@@ -516,6 +553,8 @@ BL | 正剧 | 强强 | R18 | 伪自攻自受
 ## 2019.4
 
 ### 思维冲击实验：996
+
+![](images/pic_game_research_996.png)
 
 - 游戏类型Tag
 
