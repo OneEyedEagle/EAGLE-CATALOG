@@ -4,16 +4,26 @@
 
 ## 前言
 
-### 个人联络方式
+### 老鹰简介
+
+喜欢自己捣鼓的RPG Maker爱好者，虽然做的东西都很一般，但是真的很快乐～
+
+### 联络方式
 
 - LOFTER - [老鹰的巢](https://oneeyedeagle.lofter.com/)
 
 - 新浪微博 - [@独眼老鹰](https://weibo.com/oneeyedeagle) 
 
-### 说明
+### 插件分享
 
-- 老鹰的合集分享：[百度云](https://pan.baidu.com/s/1-VAsCZNCGHTS_udyeqyERg ) 提取码 _yqk4_（含全部已发布内容，如遇单独分享失效，可至此处查找）
-- 本文中全部的索引链接均为LOFTER博客页地址
+因为自己是代码出身，所以在编写插件上的时间花费越来越多，为了能更好地帮助到其他人，特此开了一个仓库来存放可供使用的RMVA插件。
+
+[GitHub仓库地址](https://github.com/OneEyedEagle/EAGLE-RGSS3)
+
+### 索引说明
+
+- 合集分享（含全部已发布内容，如遇单独分享失效，可至此处查找）[百度云](https://pan.baidu.com/s/1-VAsCZNCGHTS_udyeqyERg ) _yqk4_
+- 本文中的发布页链接一般为LOFTER博客页地址，或[Project1](https://rpg.blue/)论坛内地址
 
 ---
 
@@ -39,7 +49,7 @@
 
 其实制作初衷真的非常简单，因为在当时的7月份才真正接触RM，那时也才被岚少实况的魔女之家所震撼到，于是……就拆了个包学习了下然后自己做了这个，其实并没有正式发布，一直也只在澄海工作室的群里和这个LOFTER里出现。
 
-- 发布页：http://oneeyedeagle.lofter.com/post/456402_2d0554a
+- 发布页：<http://oneeyedeagle.lofter.com/post/456402_2d0554a>
 
 ---
 
