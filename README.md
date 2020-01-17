@@ -20,6 +20,10 @@
 
 因为自己是代码出身，所以在编写插件上的时间花费越来越多，为了能更好地帮助到其他人，特此开了一个仓库来存放可供使用的RMVA插件
 
+![](images/sig_repo_rgss3.png)
+
+*LOGO绘制 by [葱兔](http://onira.lofter.com/)*
+
 [GitHub仓库地址](https://github.com/OneEyedEagle/EAGLE-RGSS3)
 
 ### 索引说明
