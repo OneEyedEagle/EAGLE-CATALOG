@@ -645,7 +645,7 @@ AVG |
 
 ### 弱水愿
 
-![](/images/sig_game_lake_wish.png)
+![](images/sig_game_lake_wish.png)
 
 - 游戏类型Tag
 
@@ -672,7 +672,7 @@ AVG |
 
 ### 心理治疗记录
 
-![](/images/sig_game_record_mental_healing.png)
+![](images/sig_game_record_mental_healing.png)
 
 - 游戏类型Tag
 
