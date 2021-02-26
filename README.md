@@ -26,9 +26,20 @@
 
 [GitHub仓库地址](https://github.com/OneEyedEagle/EAGLE-RGSS3)
 
+### 补链专区
+
+由于百度云终于对我这个弱小可怜无助的人儿下手了，合集现在是秒审核失败，只能劳累自己一个个补链了……
+
+由于本人的懒惰，有的可能就再也不补了（
+
+（2021.2.27更新）
+
+22-心理治疗记录 [百度云](https://pan.baidu.com/s/1elFMDzgfB2DAkOOLO04_tA ) _yrzh_ [蓝奏云](https://wwx.lanzoui.com/b05skm6uh) _8my2_
+
+
+
 ### 索引说明
 
-- 合集分享 [百度云载点](https://pan.baidu.com/s/1-VAsCZNCGHTS_udyeqyERg )  _yqk4_ （含全部已发布内容，如遇单独分享失效，可至此处查找）
 - 本文中的发布页链接一般为LOFTER博客页地址，或[Project1](https://rpg.blue/)论坛内地址
 
 ### 快速跳转
