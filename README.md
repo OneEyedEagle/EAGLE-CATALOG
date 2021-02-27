@@ -34,15 +34,15 @@
 
 （2021.2.27更新）
 
-22-心理治疗记录 [百度云](https://pan.baidu.com/s/1elFMDzgfB2DAkOOLO04_tA ) _yrzh_ [蓝奏云](https://wwx.lanzoui.com/b05skm6uh) _8my2_
+22-心理治疗记录 | [百度云](https://pan.baidu.com/s/1elFMDzgfB2DAkOOLO04_tA ) _yrzh_ | [蓝奏云](https://wwx.lanzoui.com/b05skm6uh) _8my2_
 
-21-弱水愿 [百度云](https://pan.baidu.com/s/1aQ6dzvaTCIt85sl_Hd_LvA ) _hbi5_ [蓝奏云](https://wwx.lanzoui.com/b05s65f7c) _2zkt_
+21-弱水愿 | [百度云](https://pan.baidu.com/s/1aQ6dzvaTCIt85sl_Hd_LvA ) _hbi5_ | [蓝奏云](https://wwx.lanzoui.com/b05s65f7c) _2zkt_
 
-20-思维冲击实验 [百度云](https://pan.baidu.com/s/1J7XJtQuZktsB7UO2h2z49w) _se3a_
+20-思维冲击实验 | [百度云](https://pan.baidu.com/s/1J7XJtQuZktsB7UO2h2z49w) _se3a_ | [蓝奏云](https://wwx.lanzoui.com/b05swlgcf) _7ytq_
 
-19-Fidelis_Alchemy and Records [百度云](https://pan.baidu.com/s/1QR82FxnTSIxQftmpSbPDWw) _ixtm_
+19-Fidelis_Alchemy and Records | [百度云](https://pan.baidu.com/s/1QR82FxnTSIxQftmpSbPDWw) _ixtm_ | [蓝奏云](https://wwx.lanzoui.com/b05swlgib) _b75b_
 
-18-Fidelis_Mega Origin [百度云](https://pan.baidu.com/s/1CY0hRrizdlqJ4-Of9mpefA) _cane_
+18-Fidelis_Mega Origin | [百度云](https://pan.baidu.com/s/1CY0hRrizdlqJ4-Of9mpefA) _cane_ | [蓝奏云](https://wwx.lanzoui.com/b05swlhji) _6xt7_
 
 17-Fidelis_Tilting the Balance [百度云](https://pan.baidu.com/s/1eTtB6mQ)
 
