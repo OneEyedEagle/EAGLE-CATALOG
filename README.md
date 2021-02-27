@@ -28,30 +28,52 @@
 
 ### 补链专区
 
-由于百度云终于对我这个弱小可怜无助的人儿下手了，合集现在是秒审核失败，只能劳累自己一个个补链了……
+由于百度云终于对我这个弱小可怜无助的人儿下手了，合集现在是秒被审核失败，只能劳累自己一个个补链了……
 
-由于本人的懒惰，有的可能就再也不补了（
+注：如果遇到压缩包需要解压密码，一律为 _eagle_
+注2：如果遇到没有被补档的，是因为过于黑历史所以我直接BAN了嘻嘻
 
 （2021.2.27更新）
 
-22-心理治疗记录 | [百度云](https://pan.baidu.com/s/1elFMDzgfB2DAkOOLO04_tA ) _yrzh_ | [蓝奏云](https://wwx.lanzoui.com/b05skm6uh) _8my2_
+22-心理治疗记录 | [百度云](https://pan.baidu.com/s/1zXXoECfY0BmfpcLKCeLoMQ) vabt | [蓝奏云](https://wwx.lanzoui.com/b05skm6uh) 8my2
 
-21-弱水愿 | [百度云](https://pan.baidu.com/s/1aQ6dzvaTCIt85sl_Hd_LvA ) _hbi5_ | [蓝奏云](https://wwx.lanzoui.com/b05s65f7c) _2zkt_
+21-弱水愿 | [百度云](https://pan.baidu.com/s/1aQ6dzvaTCIt85sl_Hd_LvA ) hbi5 | [蓝奏云](https://wwx.lanzoui.com/b05s65f7c) 2zkt
 
-20-思维冲击实验 | [百度云](https://pan.baidu.com/s/1J7XJtQuZktsB7UO2h2z49w) _se3a_ | [蓝奏云](https://wwx.lanzoui.com/b05swlgcf) _7ytq_
+20-思维冲击实验 | [百度云](https://pan.baidu.com/s/1J7XJtQuZktsB7UO2h2z49w) se3a | [蓝奏云](https://wwx.lanzoui.com/b05swlgcf) 7ytq
 
-19-Fidelis_Alchemy and Records | [百度云](https://pan.baidu.com/s/1QR82FxnTSIxQftmpSbPDWw) _ixtm_ | [蓝奏云](https://wwx.lanzoui.com/b05swlgib) _b75b_
+19-Fidelis_Alchemy and Records | [百度云](https://pan.baidu.com/s/1QR82FxnTSIxQftmpSbPDWw) ixtm | [蓝奏云](https://wwx.lanzoui.com/b05swlgib) b75b
 
-18-Fidelis_Mega Origin | [百度云](https://pan.baidu.com/s/1CY0hRrizdlqJ4-Of9mpefA) _cane_ | [蓝奏云](https://wwx.lanzoui.com/b05swlhji) _6xt7_
+18-Fidelis_Mega Origin | [百度云](https://pan.baidu.com/s/1CY0hRrizdlqJ4-Of9mpefA) cane | [蓝奏云](https://wwx.lanzoui.com/b05swlhji) 6xt7
 
-17-Fidelis_Tilting the Balance [百度云](https://pan.baidu.com/s/1eTtB6mQ)
+17-Fidelis_Tilting the Balance | [百度云](https://pan.baidu.com/s/1eTtB6mQ) | [蓝奏云](https://wwx.lanzoui.com/b05swlp5c) 7vu7
 
-16-
+16-抑郁Depression | [百度云](https://pan.baidu.com/s/1JsvY1vAU9Pg4GrwPdKBqoQ) hddm | [蓝奏云](https://wwx.lanzoui.com/b05swlqtc) 3wyg
 
-15-
+15-Rescue Line_ProudToBe | [百度云](https://pan.baidu.com/s/1GR5FJELS5Izpavk2HA7gyg) 1j9g | [蓝奏云](https://wwx.lanzoui.com/b05swlrva) eunx
 
+14-实验观察记录 | [百度云](https://pan.baidu.com/s/1qzMw0wwBmOHiPrLBykHyIQ) jytk | [蓝奏云](https://wwx.lanzoui.com/b05swls0f) fnxp
 
+13-映月奏 | [百度云](https://pan.baidu.com/s/1_rJJD_pv9Mc7cnQyhd2AGQ) i47t | [蓝奏云](https://wwx.lanzoui.com/b05swlslg) 1uhx
 
+12-完美犯罪 | [百度云](https://pan.baidu.com/s/1MPBQW1PWaQtr9IKJba_s9A) kdj0 | [蓝奏云](https://wwx.lanzoui.com/b05swltfg) 7wki
+
+11-Fidelis_The Overdue Brave | [百度云](https://pan.baidu.com/s/1RjPI4dyFr0E0EDDoigq3IQ) xovh | [蓝奏云](https://wwx.lanzoui.com/b05swltsj) 1w06
+
+10-朋友 | [百度云](https://pan.baidu.com/s/1ZpPIyhcc--GXbIgmv4_VwA) tnop | [蓝奏云](https://wwx.lanzoui.com/b05swm0gj) eie8
+
+9-祈年舞 | [百度云](https://pan.baidu.com/s/1yzTUhaDqrMb40YVtWSIGLw) hh6o | [蓝奏云](https://wwx.lanzoui.com/b05swm18h) 3yp6
+
+8-我之死 | [百度云](https://pan.baidu.com/s/1PZKTCT1vOqb2gOYqfwGmkQ) p9br | [蓝奏云](https://wwx.lanzoui.com/b05swm1hg) 5nc1
+
+7-肯定还有奇怪的地方 | [百度云](https://pan.baidu.com/s/1U1QZnaIP-m1ulySx2ENhfA) 6amp | [蓝奏云](https://wwx.lanzoui.com/b05swm1nc) at6k
+
+6-谎言之屋 | [百度云](https://pan.baidu.com/s/1EwflFppAU_GHglULmkq_SQ) z6oi | [蓝奏云](https://wwx.lanzoui.com/b05swm1ti) ds60
+
+5-日落归 | [百度云](https://pan.baidu.com/s/1Jsa_F4a9s-T1kHLUvDJl4Q) b7dg | [蓝奏云](https://wwx.lanzoui.com/b05swm1xc) 4hqq
+
+3-夜之章 | [百度云](https://pan.baidu.com/s/1hwYFwZmthTwe7Is2IZZT9g) sej7 | [蓝奏云](https://wwx.lanzoui.com/b05swm23i) fhr6
+
+1-追逐战练习 | [百度云](https://pan.baidu.com/s/1DwUouf03QJ4NPIEFxnrSrg) g215 | [蓝奏云](https://wwx.lanzoui.com/b05swm2rc) 5ehz
 
 ### 索引说明
 
