@@ -752,7 +752,7 @@ AVG |
 
 ### 美梦图书馆
 
-![](images/sig_game_dream_library.png)
+![](images/sig_game_dream_library.jpg)
 
 - 游戏类型Tag
 
