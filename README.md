@@ -8,13 +8,13 @@
 
 ![](images/logo_eagle.png)
 
-喜欢自己捣鼓的RPG Maker爱好者，虽然做的东西都很一般，但是真的很快乐～
+喜欢自己捣鼓有趣小东西的RPG Maker爱好者，虽然技术和审美一般，但快乐就好～
 
 ### 联络方式
 
-- LOFTER - [老鹰的巢](https://oneeyedeagle.lofter.com/)
-
 - 新浪微博 - [@独眼老鹰](https://weibo.com/oneeyedeagle)
+
+- LOFTER - [老鹰的巢](https://oneeyedeagle.lofter.com/)
 
 ### 插件分享
 
@@ -34,7 +34,12 @@
 
 注2：如果遇到没有被补档的，是因为过于黑历史所以我直接BAN了嘻嘻
 
-（2021.2.27更新）
+（2023.6.1更新）
+
+24-噩梦破碎 | [百度云](https://pan.baidu.com/s/1d0WV0SvuxhTUWQGo-CjYPg?pwd=hf1a 
+) [蓝奏云](https://wwpt.lanzoul.com/b05vm77sb) 9rj4
+
+23-美梦图书馆 | [百度云](https://pan.baidu.com/s/1aCyhtvaY4HHMLThtfPje2w?pwd=cuhl) | [蓝奏云](https://wwpt.lanzoul.com/b05ujouih) a8dj
 
 22-心理治疗记录 | [百度云](https://pan.baidu.com/s/1zXXoECfY0BmfpcLKCeLoMQ) vabt | [蓝奏云](https://wwx.lanzoui.com/b05skm6uh) 8my2
 
@@ -125,6 +130,8 @@
 [2020.11](#202011) >> [心理治疗记录](#心理治疗记录)
 
 [2022.8](#20228) >> [美梦图书馆](#美梦图书馆)
+
+[2023.5](#20235) >> [噩梦破碎](#噩梦破碎)
 
 ---
 
@@ -774,6 +781,34 @@ AVG |
   最后还要感谢突然主动愿意提供图块的深草聚聚，不然图书馆就真的太破旧了呜呜呜。
 
 - 发布页：<https://rpg.blue/thread-490513-1-1.html>
+
+
+---
+
+## 2023.5
+
+### 噩梦破碎
+
+![](images/pic_game_breakup.png)
+
+- 游戏类型Tag
+
+AVG |
+
+- 剧情Tag
+
+日轻 | 欢乐
+
+- 简介
+
+  中二的我在梦里被选中拯救大家？！
+
+- 制作感想
+
+  作为每年都重写过一次的粒子系统，在今年初终于到了V3版本了！然后恰好遇上这样一个主题的极短，真是巧上加巧~
+  完完全全沉浸在了粒子演出中，所以剧本采用了最简单最快乐的日轻吐槽风，为什么中二少年总会有各种快乐源泉呢？为什么我高中二年级时只会苦逼刷题呢？为什么我这么快就不再是少年了呢？但也幸好不用再回到高中了，精神压力是真的很大。现在可以快乐地在游戏制作中体验日轻的高中，希望我还能做出悠哉的充满气泡水的少年的盛夏之梦吧。
+
+- 发布页：<https://rpg.blue/thread-493222-1-1.html>
 
 ---
 
